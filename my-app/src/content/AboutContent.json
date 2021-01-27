@@ -1,0 +1,18 @@
+{
+  "title": "가격 정책",
+  "text": "세부 요구 사항이 있을 시 언제든 문의주세요 친절히 상담해 드립니다",
+  "section": [
+    {
+      "title": "기본 패키징",
+      "content": "무제한 푸시 알림 기능</br>",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Why styled-components?",
+      "content": "Styled Components gives you total control over your components.",
+      "icon": "notes.svg"
+    }
+    
+  ]
+  
+}
